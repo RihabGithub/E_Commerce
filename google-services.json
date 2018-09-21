@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_number": "740715971159",
+    "firebase_url": "https://androidbackendmanagement.firebaseio.com",
+    "project_id": "androidbackendmanagement",
+    "storage_bucket": "androidbackendmanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740715971159:android:64ae08fffd37c26f",
+        "android_client_info": {
+          "package_name": "org.company.backendmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740715971159-fl7tsj9iat3t8lhsa79t6e0dhka9ovjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.company.backendmanagement",
+            "certificate_hash": "3ee0b2754131949f8c4fab0445fa492b1fbfd3fd"
+          }
+        },
+        {
+          "client_id": "740715971159-8m09jq17g5flvtk5ngpu9oemashcnfk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740715971159-8m09jq17g5flvtk5ngpu9oemashcnfk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+
+}
